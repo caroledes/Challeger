@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>AluraGeek</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+<body>
+    <header>
+        <h1>AluraGeek</h1>
+        <h2>MIS PRODUCTOS</h2>
+        <label>Stormtrooper</label>
+        <label>Game Boy Classic</label>
+        <label>Stormtrooper</label>
+    </header>
+<form action="getform.php" method="get">
+      <label>Nombre: <input type="text" /></label><br />
+      <label>Precio: <input type="text" /></label><br />
+      <label>Imagen: <input type="text" /></label><br />
+    <div class="centrar-div">
+      <button class="button button-outline"><a href="index.html">Enviar</a></button> 
+      <button class="button button-outline"><a href="index.html">Limpiar</a></button> 
+    </div>
+    </div>
+</form>
+<footer><p>AluraGeek</p><p>DESAROLLADO POR CAROLINA NOEMI LEDESMA</p><p>ALURA LATAM - 2024</p></footer>
